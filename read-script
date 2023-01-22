@@ -1,0 +1,5 @@
+#!/bin/bash
+#read user input 
+echo "Hello, Please Input your name here: "
+read name
+echo "Thanks $name, You are able to keep going now"
