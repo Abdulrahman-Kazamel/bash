@@ -10,5 +10,4 @@ for i in 10.10.125.{1..255}
 	do
 	is_alive_ping $i & disown
 	done
-
-exit()	
+	
