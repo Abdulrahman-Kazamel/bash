@@ -7,7 +7,7 @@ echo ${arr[-1]}
 echo ${arr[@]} >> data &
 echo ${#arr[@]}
 echo "=============================="
-echo ${arr::5}
+echo ${arr:2:2}
 
 
 

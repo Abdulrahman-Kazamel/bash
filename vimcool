@@ -1,0 +1,8 @@
+##
+dd 
+4d ==> delete four lines
+gg ==>go to the first of the page
+u => undo
+p ===> past 
+:set num
+:sytax on-off
